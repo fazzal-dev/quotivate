@@ -1,7 +1,5 @@
 # Quotivate - Visual Studio Code Extension
 
-<!-- ![Quotivate Logo](https://your-extension-url.com/logo.png) -->
-
 Quotivate is a Visual Studio Code extension that delivers daily doses of inspiration and motivation right within your coding environment. Start your day with handpicked quotes to boost your creativity, productivity, and motivation.
 
 ## Installation
@@ -43,7 +41,7 @@ Quotivate can be configured to suit your preferences. You can customize:
 
 ## Contributing
 
-We welcome contributions from the community. If you'd like to contribute to the development of Quotivate, please review our [Contribution Guidelines](https://github.com/fazzal-dev/quotivate.git).
+<!-- We welcome contributions from the community. If you'd like to contribute to the development of Quotivate, please review our [Contribution Guidelines](https://github.com/fazzal-dev/quotivate.git). -->
 
 ## Changelog
 
@@ -67,5 +65,3 @@ We would like to thank the following libraries and resources for their contribut
 <!-- - [Library/Resource Name](https://library-or-resource-link.com) -->
 
 Thank you for using Quotivate!
-
-<!-- ![A sample screenshot or demo of your extension in action](https://your-extension-url.com/screenshot.png) -->
