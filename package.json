@@ -9,15 +9,17 @@
   "categories": [
     "Other"
   ],
-  "activationEvents": [],
+  "activationEvents": ["extension.showQuotes"],
   "main": "./extension.js",
   "contributes": {
     "commands": [
       {
         "command": "extension.showQutes",
         "title": "quote"
-      }
-    ]
+      } 
+    ],
+    "repository": "https://github.com/fazzal-dev/quotivate.git"
+
   },
   "scripts": {
     "lint": "eslint .",
