@@ -1,6 +1,6 @@
 # Quotivate - Visual Studio Code Extension
 
-![Quotivate Logo](https://your-extension-url.com/logo.png)
+<!-- ![Quotivate Logo](https://your-extension-url.com/logo.png) -->
 
 Quotivate is a Visual Studio Code extension that delivers daily doses of inspiration and motivation right within your coding environment. Start your day with handpicked quotes to boost your creativity, productivity, and motivation.
 
@@ -47,25 +47,25 @@ We welcome contributions from the community. If you'd like to contribute to the 
 
 ## Changelog
 
-See the [Changelog](CHANGELOG.md) for information on new features, bug fixes, and updates.
+<!-- See the [Changelog](CHANGELOG.md) for information on new features, bug fixes, and updates. -->
 
 ## License
 
-This project is licensed under the [Your License Name] - see the [LICENSE](LICENSE) file for details.
+<!-- This project is licensed under the [Your License Name] - see the [LICENSE](LICENSE) file for details. -->
 
 ## Contact
 
 Have questions or feedback? Feel free to get in touch:
 
-- Your Name - [Your Email Address](mailto:youremail@example.com)
-- [GitHub Repository](https://github.com/yourusername/quotivate)
+<!-- - Your Name - [Your Email Address](mailto:youremail@example.com)
+- [GitHub Repository](https://github.com/yourusername/quotivate) -->
 
 ## Acknowledgments
 
 We would like to thank the following libraries and resources for their contributions to Quotivate:
 
-- [Library/Resource Name](https://library-or-resource-link.com)
+<!-- - [Library/Resource Name](https://library-or-resource-link.com) -->
 
 Thank you for using Quotivate!
 
-![A sample screenshot or demo of your extension in action](https://your-extension-url.com/screenshot.png)
+<!-- ![A sample screenshot or demo of your extension in action](https://your-extension-url.com/screenshot.png) -->
