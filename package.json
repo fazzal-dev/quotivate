@@ -1,0 +1,41 @@
+{
+  "name": "quotivate",
+  "displayName": "Quotivate",
+  "description": "Quotivate is your daily dose of inspiration and motivation, right in the heart of your coding environment. Elevate your coding sessions with a touch of wisdom and inspiration. Quotivate serves you a fresh, handpicked quote every day, sparking creativity and guiding you to new heights of productivity.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [],
+  "main": "./extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "extension.showQutes",
+        "title": "quote"
+      }
+    ]
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "yarn run lint",
+    "test": "node ./test/runTest.js"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/mocha": "^10.0.2",
+    "@types/node": "18.x",
+    "@types/vscode": "^1.83.0",
+    "@vscode/test-electron": "^2.3.4",
+    "eslint": "^8.50.0",
+    "glob": "^10.3.3",
+    "mocha": "^10.2.0",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "axios": "^1.5.1"
+  }
+}
