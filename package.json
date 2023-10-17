@@ -18,7 +18,10 @@
         "title": "quote"
       } 
     ],
-    "repository": "https://github.com/fazzal-dev/quotivate.git"
+    "repository": {
+      "type":"git",
+      "url":"https://github.com/fazzal-dev/quotivate.git"
+      }
 
   },
   "scripts": {

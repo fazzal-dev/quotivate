@@ -43,7 +43,7 @@ Quotivate can be configured to suit your preferences. You can customize:
 
 ## Contributing
 
-We welcome contributions from the community. If you'd like to contribute to the development of Quotivate, please review our [Contribution Guidelines](CONTRIBUTING.md).
+We welcome contributions from the community. If you'd like to contribute to the development of Quotivate, please review our [Contribution Guidelines](https://github.com/fazzal-dev/quotivate.git).
 
 ## Changelog
 
